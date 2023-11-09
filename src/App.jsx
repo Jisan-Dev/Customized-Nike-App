@@ -35,7 +35,7 @@ const App = () => (
       <Subscribe />
     </section>
     <section>
-      <h1>This is a new feature. practicing github</h1>
+      <h1>This is a new feature. practicing github -button- </h1>
     </section>
     <section className="padding-x padding-t pb-8 bg-black text-white">
       <Footer />
