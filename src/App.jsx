@@ -34,10 +34,6 @@ const App = () => (
     <section className="padding-x sm:py-32 py-16 w-full">
       <Subscribe />
     </section>
-    <section>
-      <h1>This is a new feature. practicing github -dropdown- </h1>
-      <h1>This is a new feature. practicing github -button- </h1>
-    </section>
     <section className="padding-x padding-t pb-8 bg-black text-white">
       <Footer />
     </section>
